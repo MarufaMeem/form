@@ -1,0 +1,40 @@
+
+.wrapper{
+    width: 550px;
+    /* margin:0 auto; */
+    /* border: 2px solid rgb(240, 105, 43); */
+}
+label{
+font-size: 25px;
+}
+ .FirstName, .message {
+    width: 90%;
+    height: 25px;
+    padding: 1px;
+    font-size: 12px;
+    font-style: italic;
+    color: rgba(1, 27, 75, 0.72);
+    
+} 
+.message:hover {
+background-color: bisque;
+}
+.message{
+   font-style:oblique;
+   width: 75;
+   height: 60;
+}
+table{
+    width: 90%;
+border: 3px solid rgb(214, 152, 94);
+}
+th , td{
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid rgb(214, 152, 94);
+    align-self: center;
+    margin:0 auto;
+}
+td:hover {
+background-color: rgb(255, 246, 127);
+}
